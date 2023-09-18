@@ -1,0 +1,37 @@
+.centered{
+	margin-left:auto;
+	margin-right: auto;
+	display: block;
+}
+ }#main-text{
+ 		border:#913d0c 1px dottted;
+		background-color:#67d0f0;
+}
+h1 {
+	font-family: Roboto;
+	font-size: 18px;
+	color: brown;
+}
+
+
+ol{ 
+	border: #50c7c7 1px solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+ }
+
+ li{ 
+ 	color; #50c7c7;
+ 	font-size: 14px;
+  }
+
+.highlight { 
+	color: #dea60d;
+ }
+
+	
+
+  div{
+  		border: #913d0c 1px dotted;
+ 
+
